@@ -8,6 +8,7 @@ A weather app built with Flutter and API integration is a mobile application des
 Upon launching the weather app, users are greeted with a simple and clean interface that displays the current weather conditions, such as temperature, for their current location. Users can also search for weather information for any other location by clicking the rightside top icon and after opening you can enter the city and it will display the current weather.
 
 
+![image](https://user-images.githubusercontent.com/91030529/228552997-de13f8e3-8492-4020-a679-85e94675b644.png)
 
 
 Overall, a weather app built with Flutter and API integration is a powerful tool that provides users with up-to-date weather information in a user-friendly and customizable format. It can be a great addition to anyone's daily routine, whether it be planning for outdoor activities, traveling, or simply staying informed about the weather conditions in their area.
