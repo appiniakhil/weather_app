@@ -1,4 +1,4 @@
-# weather_app
+# weather_app_using_API
 A weather app built with Flutter and API integration is a mobile application designed to provide users with real-time weather information for their location or any other specified location. The app uses Flutter, a popular open-source framework for building high-performance, cross-platform mobile applications, to create a beautiful and intuitive user interface. The API integration allows the app to retrieve weather data from various sources and display it in an easy-to-understand format.
 
 ![image](https://user-images.githubusercontent.com/91030529/228552438-33d7731e-3c8b-426a-858c-21d8f4c5d66c.png)
